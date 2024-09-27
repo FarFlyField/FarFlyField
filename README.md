@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarFlyField
 - 👀 I’m interested in developing software and machine learning projects. 
 - 🌱 I’m currently seeking sponsorships to work in the US. 
-- 💞️ I’m looking to collaborate on things that enhance my resume. 
+- 💞️ I’m looking to collaborate on things that bring great impact. 
 - 📫 How to reach me wuh001208@gmail.com
 
 <!---
